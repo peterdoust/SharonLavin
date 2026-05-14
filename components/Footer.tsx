@@ -10,7 +10,7 @@ export default function Footer() {
         <div className="footer-info">
           <div className="info-block">
             <h4>Location</h4>
-            <p>21731 Ventura Blvd Ste 160<br />Woodland Hills, CA 91364</p>
+            <p>21731 Ventura Boulevard #165<br />Woodland Hills, CA 91364</p>
           </div>
           <div className="info-block">
             <h4>Contact</h4>

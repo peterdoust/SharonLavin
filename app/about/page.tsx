@@ -4,8 +4,8 @@ import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
   title: 'About Sharon Lavin',
-  description: 'Learn about Dr. Sharon E. Lavin — Psy.D., Marriage and Family Therapist with 30+ years of experience serving the San Fernando Valley. UCLA, Pepperdine, and CSPP graduate.',
-  openGraph: { title: 'About Dr. Sharon E. Lavin', description: 'Over 30 years of compassionate therapy practice in Woodland Hills, CA — specializing in individuals, couples, and families.' },
+  description: 'Learn about Dr. Sharon E. Lavin — Psy.D., Marriage and Family Therapist with over 40 years of experience serving the San Fernando Valley. UCLA, Pepperdine, and CSPP graduate.',
+  openGraph: { title: 'About Dr. Sharon E. Lavin', description: 'Over 40 years of compassionate therapy practice in Woodland Hills, CA — specializing in individuals, couples, and families.' },
 };
 
 export default function AboutPage() {
@@ -58,7 +58,7 @@ export default function AboutPage() {
             <h3>Credentials</h3>
             <p>I began studying psychology because I was interested in connecting with people and helping them. It is my job to make patients understand their feelings in order to express and communicate their anxieties, worries, and stress that emotionally impact everyday well-being.</p>
             <p>My credentials include a Bachelor&apos;s Degree in Psychology from University of California Los Angeles, a Master&apos;s Degree in Psychology from Pepperdine University, and a Psy.D. in Psychology from the California School of Professional Psychology.</p>
-            <p>I have been in private practice for the past 25 years located in Tarzana, California which allows me to treat patients in the heart of the San Fernando Valley and the greater Los Angeles area.</p>
+            <p>I have been in private practice for over 40 years located in Woodland Hills, California which allows me to treat patients in the heart of the San Fernando Valley and the greater Los Angeles area.</p>
           </div>
         </div>
       </section>
@@ -86,8 +86,8 @@ export default function AboutPage() {
             <div className="credential-card-icon">
               <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"></path></svg>
             </div>
-            <h3>25+ Years Experience</h3>
-            <p>Private practice located in Tarzana, California, treating patients across the San Fernando Valley and the greater Los Angeles area.</p>
+            <h3>Over 40 Years Experience</h3>
+            <p>Private practice located in Woodland Hills, California, treating patients across the San Fernando Valley and the greater Los Angeles area.</p>
           </div>
           <div className="credential-card">
             <div className="credential-card-icon">
@@ -177,7 +177,7 @@ export default function AboutPage() {
               </div>
               <div className="booking-detail">
                 <div className="booking-detail-icon"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg></div>
-                <div><strong>Visit Us</strong><span>21731 Ventura Blvd Ste 160, Woodland Hills</span></div>
+                <div><strong>Visit Us</strong><span>21731 Ventura Boulevard #165, Woodland Hills</span></div>
               </div>
             </div>
           </div>

@@ -125,7 +125,7 @@ export default function BlogPage() {
               </div>
               <h4>Dr. Sharon E. Lavin</h4>
               <div className="role">Psy.D. &bull; Marriage &amp; Family Therapist</div>
-              <p>Over 25 years helping individuals, families, and couples navigate life&apos;s challenges with compassion and expertise.</p>
+              <p>Over 40 years helping individuals, families, and couples navigate life&apos;s challenges with compassion and expertise.</p>
             </div>
 
             <div className="sb-widget">

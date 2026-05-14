@@ -30,7 +30,7 @@ export default function ContactPage() {
         <div className="ct-info-inner">
           <div className="ct-info-item">
             <div className="ct-info-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path></svg></div>
-            <div><h4>Call Us</h4><p><a href="tel:8187087350">+1 (818) 708-3750</a></p></div>
+            <div><h4>Call Us</h4><p><a href="tel:8187577611">+1 (818) 757-7611</a></p></div>
           </div>
           <div className="ct-info-item">
             <div className="ct-info-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path><polyline points="22,6 12,13 2,6"></polyline></svg></div>
@@ -38,7 +38,7 @@ export default function ContactPage() {
           </div>
           <div className="ct-info-item">
             <div className="ct-info-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg></div>
-            <div><h4>Visit Us</h4><p>21731 Ventura Blvd Ste 160</p></div>
+            <div><h4>Visit Us</h4><p>21731 Ventura Boulevard #165</p></div>
           </div>
         </div>
       </div>
@@ -55,7 +55,7 @@ export default function ContactPage() {
               <div className="ct-detail-list">
                 <div className="ct-detail">
                   <div className="ct-detail-icon"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path></svg></div>
-                  <div className="ct-detail-text"><h4>Phone Numbers</h4><p>Office: <a href="tel:8187087350">+1 (818) 708-3750</a><br />Cell: <a href="tel:8188224364">+1 (818) 822-4364</a></p></div>
+                  <div className="ct-detail-text"><h4>Phone Numbers</h4><p>Office: <a href="tel:8187577611">+1 (818) 757-7611</a><br />Cell: <a href="tel:8188224364">+1 (818) 822-4364</a></p></div>
                 </div>
                 <div className="ct-detail">
                   <div className="ct-detail-icon"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path><polyline points="22,6 12,13 2,6"></polyline></svg></div>
@@ -63,7 +63,7 @@ export default function ContactPage() {
                 </div>
                 <div className="ct-detail">
                   <div className="ct-detail-icon"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg></div>
-                  <div className="ct-detail-text"><h4>Office Location</h4><p>21731 Ventura Blvd Ste 160<br />Woodland Hills, CA 91364</p></div>
+                  <div className="ct-detail-text"><h4>Office Location</h4><p>21731 Ventura Boulevard #165<br />Woodland Hills, CA 91364</p></div>
                 </div>
               </div>
             </div>
@@ -86,7 +86,7 @@ export default function ContactPage() {
       <section className="ct-map-section">
         <div className="ct-map-wrapper">
           <iframe
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3301.7656919018617!2d-118.60155698478229!3d34.16912388057279!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c29eed46d0a7a7%3A0xc3b9bed86720dbe7!2s21731%20Ventura%20Blvd%20%23160%2C%20Woodland%20Hills%2C%20CA%2091364!5e0!3m2!1sen!2sus!4v1654109404289!5m2!1sen!2sus"
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3301.7656919018617!2d-118.60155698478229!3d34.16912388057279!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c29eed46d0a7a7%3A0xc3b9bed86720dbe7!2s21731%20Ventura%20Blvd%20%23165%2C%20Woodland%20Hills%2C%20CA%2091364!5e0!3m2!1sen!2sus!4v1654109404289!5m2!1sen!2sus"
             allowFullScreen
             loading="lazy"
             referrerPolicy="no-referrer-when-downgrade"
@@ -94,9 +94,9 @@ export default function ContactPage() {
           <div className="ct-map-overlay-bar">
             <div className="ct-map-address">
               <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-              <p>21731 Ventura Blvd Ste 160, Woodland Hills, CA 91364</p>
+              <p>21731 Ventura Boulevard #165, Woodland Hills, CA 91364</p>
             </div>
-            <a href="https://maps.google.com/?q=21731+Ventura+Blvd+Ste+160+Woodland+Hills+CA+91364" target="_blank" rel="noopener noreferrer" className="ct-map-btn">
+            <a href="https://maps.google.com/?q=21731+Ventura+Boulevard+165+Woodland+Hills+CA+91364" target="_blank" rel="noopener noreferrer" className="ct-map-btn">
               Get Directions
               <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><line x1="5" y1="12" x2="19" y2="12"></line><polyline points="12 5 19 12 12 19"></polyline></svg>
             </a>
@@ -112,7 +112,7 @@ export default function ContactPage() {
         </div>
         <div className="ct-faq-grid">
           {[
-            { q: 'How do I schedule an appointment?', a: 'Call the office at (818) 708-3750, send an email, or fill out the contact form above. We\'ll respond within one business day.' },
+            { q: 'How do I schedule an appointment?', a: 'Call the office at (818) 757-7611, send an email, or fill out the contact form above. We\'ll respond within one business day.' },
             { q: 'What should I expect in the first session?', a: 'The first session is an opportunity to discuss your concerns, goals, and background in a safe, judgment-free environment.' },
             { q: 'Do you accept insurance?', a: 'Please contact the office to discuss insurance options and coverage. We work to accommodate various plans.' },
             { q: 'Is my information confidential?', a: 'Absolutely. All client information is kept strictly confidential in accordance with HIPAA regulations and professional ethics.' },
